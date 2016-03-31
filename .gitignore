@@ -1,11 +1,7 @@
 
-
 ### Java ###
 bin/
 *.class
-
-# MAY #
-speadl-gen/
 
 # Package Files #
 *.jar
