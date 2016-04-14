@@ -1,0 +1,14 @@
+
+namespace Emachin {
+	component Enseignant {
+	}
+	
+	component Salle {
+		//requires provider : IProvider
+		//provides justhavealook : IJustHaveALook
+	}
+	
+	component  Eleve {
+	}
+	
+}
